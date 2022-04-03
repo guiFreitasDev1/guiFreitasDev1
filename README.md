@@ -1,7 +1,7 @@
 ## Olá eu sou o Guilherme Freitas
 
 - 🔭  Atualmente procurando emprego na area de Dev.
-- 🌱 Estudando HTML, CSS, JS, TypeScript, React e fazendo faculdade de ADS.
+- 🌱 Estudando HTML, CSS, JS, TypeScript, React e cursando ADS.
 
 
 <div align="center">
@@ -16,5 +16,15 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/9d/0c/b0/9d0cb0eda3bece076b73f488a52238f5.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/xiDx7IfcZ1cAAAAM/itachi-uchiha.gif">
 </div>
+  
+  ##
+  
+  <div> 
+  <a href="https://www.youtube.com/NHGNHGZERA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/guiisfreitas/i" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/nhgzera" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guiaugustofreitas@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-augusto-3ab0a6227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
