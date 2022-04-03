@@ -1,7 +1,7 @@
 ## Olá eu sou o Guilherme Freitas
 
 - 🔭  Atualmente procurando emprego na area de Dev.
-- 🌱 Estudando HTML, CSS, JS, TypeScript e fazendo faculdade de ADS.
+- 🌱 Estudando HTML, CSS, JS, TypeScript, React e fazendo faculdade de ADS.
 
 
 <div align="center">
