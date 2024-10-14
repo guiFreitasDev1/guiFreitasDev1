@@ -1,7 +1,7 @@
 ## Olá eu sou o Guilherme Freitas
 
-- 🔭  Atualmente procuro emprego na area de Dev.
-- 🌱 Estudando HTML, CSS, JS, TypeScript, React e cursando ADS.
+- 🔭  Desenvolvedor FullStack.
+- 🌱 PHP, Laravel, NextJs, CSS, JS, TypeScript, React e cursando ADS.
 
 
 <div align="center">
